@@ -428,7 +428,7 @@ Using the application IP address from `juju status` (`10.152.183.115` in our cas
 
 If everything is working properly, you should see a log-in screen that looks like this:
 
-![](/home/justin/Pictures/Screenshot from 2020-09-24 16-55-06.png)
+![](https://github.com/justinmclark/operator-framework-charm-tutorial/blob/master/Screenshot%20from%202020-09-24%2016-55-06.png)
 
 > Note that `username` and `password` are both "admin" by default.
 
